@@ -1,0 +1,13 @@
+package practice;
+
+public class Practice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// Local에서 프로젝트 생성
+		// 다시
+		// login 기능 추가 
+		// logout 기능 추가
+	}
+
+}
